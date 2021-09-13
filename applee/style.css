@@ -1,0 +1,121 @@
+body{
+    font-family: sans-serif;
+}
+.header{
+    background-color: rgba(51,51,51,255);
+    width: 100%;
+    height: 40px;
+}
+.nav a{
+ text-decoration: none;
+ color: rgba(130,130,130,255)
+ ;
+ margin: 40px;
+ padding: 0;
+ 
+ 
+}
+.nav{
+    text-align: center;
+    padding: 10px;
+   
+}
+.nav a:hover{
+    color: white;
+}
+.logo{
+    width: 70px;
+    height: 50px;
+    margin-top:-100px;
+    padding-left:150px;
+    margin-bottom: 10px;
+}
+.covid{
+    text-align: center;
+    background-color: rgba(0,113,227,255);
+    height: 20px;
+    padding: 10px;
+    
+    
+}
+.covid a{
+    color: white;
+    text-decoration: inherit;
+   margin: 0px;
+   padding: 0;
+   font-size: small;
+ 
+}
+.covid a:hover{
+ text-decoration: underline;
+}
+
+.shop{
+    text-align: center;
+    background-color: rgba(245,245,247,255) ;
+    height: 20px;
+    padding: 10px;
+}
+   
+
+
+.shop a{
+    color: rgba(118,171,224,255);
+    text-decoration: inherit;
+}
+
+.shop a:hover{
+    text-decoration: underline;
+}
+.heading1 {
+    text-align: center;
+    font-size: x-large;
+}
+.heading2{
+    text-align: center;
+    font-size: x-large;
+}
+.centered{
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+.centered a{
+    text-decoration: inherit;
+    color: rgba(75,146,218,255);
+    padding: 10px;
+
+}
+.centered a:hover{
+    text-decoration: underline;
+}
+
+.cover{
+    margin-bottom: 100px;
+    padding: 0px;
+}
+
+.one{
+    margin: 10px;
+    padding: 0;;
+}
+.two{
+    float: right ;
+    margin: 300px;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background: #000;
+}
+footer img{
+    width: 100px;
+}
+.p22{
+    color: white;
+    padding-left:130px;
+    margin:-40px;
+  
+}
